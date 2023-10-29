@@ -1,1 +1,1 @@
-![image](https://avatars.githubusercontent.com/u/55368789?v=4)
+real&hairsp;<picture><img src="public/soldier.jpg" alt="." width="3" height="3"/></picture>
