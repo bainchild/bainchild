@@ -1,7 +1,7 @@
 Hello.
 ---
 I am knowledgable (in terms of syntax and common concepts/idioms) on the following languages (in order of a preference):
- - Lua (>=100%)
+ - Lua(u) (>=100%)
  - Rust (>70%)
  - Javascript (>80%)
  - C (>70%)
