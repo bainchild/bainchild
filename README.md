@@ -13,12 +13,20 @@ I am knowledgeable (in terms of syntax and common concepts/idioms) of the follow
  - Forth (>5%)
  - Python (>40%)
 
-I am interested in learning more of, as well as choosing to use more often, any of the following languages[^1] (in order of interest):
+I am interested in learning more of, as well as choosing to use more often, any of the following languages/frameworks[^1] (in order of interest):
  - C++
  - C
+ - SvelteKit
  - PHP
  - Forth
  - Java
+
+I have set up and/or self hosted these services (in order of recency):
+ - [Jellyfin](https://jellyfin.org)
+ - [Headscale](https://github.com/juanfont/headscale)
+ - [Tailscale](https://tailscale.com)
+ - [Gitea](https://gitea.com), [Dovecot](https://dovecot.org), and a roblox backend replacement (private) proxied through nginx with certbot, and oauth provided by:
+ - [Authelia](https://authelia.com)
 
 ---
 [![bainchild's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bainchild&theme=vue-dark&hide_border=true&layout=compact&stats_format=bytes)](https://example.com/#gh-dark-mode-only)
