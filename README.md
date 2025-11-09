@@ -38,15 +38,15 @@ I am interested in learning more of, as well as choosing to use more often, any 
  - Java
 
 I have set up and/or self hosted these services (in order of recency):
- - [Jellyfin](https://jellyfin.org)
  - [Headscale](https://github.com/juanfont/headscale)
  - [Tailscale](https://tailscale.com)
- - All of: [Gitea](https://gitea.com),
+ - All of: [Jellyfin](https://jellyfin.org),
+ - [Gitea](https://gitea.com),
  - [Dovecot](https://dovecot.org),
- - and a roblox backend replacement (private) proxied through:
+ - a roblox backend replacement (private), proxied through:
  - [Nginx](https://nginx.org), with
  - [certbot](https://certbot.eff.org/), and oauth provided by:
- - [Authelia](https://authelia.com)  
+ - [Authelia](https://authelia.com).
 
 ---
 [![bainchild's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bainchild&theme=vue-dark&hide_border=true&layout=compact&stats_format=bytes)](https://example.com/#gh-dark-mode-only)
