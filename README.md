@@ -41,10 +41,10 @@ I have set up and/or self hosted these services (in order of recency):
  - [Jellyfin](https://jellyfin.org)
  - [Headscale](https://github.com/juanfont/headscale)
  - [Tailscale](https://tailscale.com)
- - [Gitea](https://gitea.com),
+ - All of: [Gitea](https://gitea.com),
  - [Dovecot](https://dovecot.org),
  - and a roblox backend replacement (private) proxied through:
- - [Nginx](https://nginx.org) with
+ - [Nginx](https://nginx.org), with
  - [certbot](https://certbot.eff.org/), and oauth provided by:
  - [Authelia](https://authelia.com)  
 
