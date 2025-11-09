@@ -3,7 +3,7 @@ Hello.
 I am knowledgeable (in terms of syntax and common concepts/idioms) of the following languages[^1] (in order of preference):
  - Lua(u) (>=100%)
  - Rust (>70%)
- - Javascript (>80%)
+ - Javascript/Typescript (>80%)
  - C (>70%)
  - Shell
  - PHP (>15%)
