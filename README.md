@@ -1,11 +1,12 @@
 Hello.
 ---
-I am knowledgeable (in terms of syntax and common concepts/idioms) of the following languages[^1] (in order of a preference):
+I am knowledgeable (in terms of syntax and common concepts/idioms) of the following languages[^1] (in order of preference):
  - Lua(u) (>=100%)
  - Rust (>70%)
  - Javascript (>80%)
  - C (>70%)
  - Shell
+ - PHP (>15%)
  - Java
  - C++
  - C#
@@ -15,6 +16,7 @@ I am knowledgeable (in terms of syntax and common concepts/idioms) of the follow
 I am interested in learning more of, as well as choosing to use more often, any of the following languages[^1] (in order of interest):
  - C++
  - C
+ - PHP
  - Forth
  - Java
 
