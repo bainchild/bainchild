@@ -49,9 +49,9 @@ I have set up and/or self hosted these services (in order of recency):
  - [Authelia](https://authelia.com).
 
 ---
-[![bainchild's Github Stats](https://github-readme-stats.vercel.app/api?username=bainchild&theme=vue-dark&hide_border=true&card_width=300&line_height=20&show_icons=true&include_all_commits=true)](https://example.com/#gh-dark-mode-only)
+<!--[![bainchild's Github Stats](https://github-readme-stats.vercel.app/api?username=bainchild&theme=vue-dark&hide_border=true&card_width=300&line_height=20&show_icons=true&include_all_commits=true)](https://example.com/#gh-dark-mode-only)
 [![bainchild's Github Stats](https://github-readme-stats.vercel.app/api?username=bainchild&theme=shadow_green&card_width=300&line_height=20&show_icons=true&include_all_commits=true)](https://example.com/#gh-light-mode-only)
 [![bainchild's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bainchild&theme=vue-dark&card_width=300&hide_border=true&layout=compact&stats_format=bytes)](https://example.com/#gh-dark-mode-only)
-[![bainchild's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bainchild&theme=shadow_green&card_width=300&layout=compact&stats_format=bytes)](https://example.com/#gh-light-mode-only)
+[![bainchild's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bainchild&theme=shadow_green&card_width=300&layout=compact&stats_format=bytes)](https://example.com/#gh-light-mode-only)--!>
 
 [^1]: HTML and CSS are not in these lists because I don't consider them notable enough or hard enough to master; I'm about 30% knowledgeable on HTML, 50% for CSS. I prefer Javascript, or Rust, generated sites over them.
