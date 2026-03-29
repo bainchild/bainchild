@@ -48,6 +48,8 @@ I have set up and/or self hosted these services (in order of recency):
  - [certbot](https://certbot.eff.org/), and oauth provided by:
  - [Authelia](https://authelia.com).
 
+Contact: [bainsletterbomb@gmail.com](mailto:bainsletterbomb@gmail.com).
+
 ---
 <!--[![bainchild's Github Stats](https://github-readme-stats.vercel.app/api?username=bainchild&theme=vue-dark&hide_border=true&card_width=300&line_height=20&show_icons=true&include_all_commits=true)](https://example.com/#gh-dark-mode-only)
 [![bainchild's Github Stats](https://github-readme-stats.vercel.app/api?username=bainchild&theme=shadow_green&card_width=300&line_height=20&show_icons=true&include_all_commits=true)](https://example.com/#gh-light-mode-only)
