@@ -51,6 +51,9 @@ I have set up and/or self hosted these services (in order of recency):
 Contact: [bainsletterbomb@gmail.com](mailto:bainsletterbomb@gmail.com).
 
 ---
+<img width="1183" height="683" alt="Screenshot_20260412_174937" src="https://github.com/user-attachments/assets/95eb3e28-5648-4e70-90b4-658f8e489504" />
+
+---
 <!--[![bainchild's Github Stats](https://github-readme-stats.vercel.app/api?username=bainchild&theme=vue-dark&hide_border=true&card_width=300&line_height=20&show_icons=true&include_all_commits=true)](https://example.com/#gh-dark-mode-only)
 [![bainchild's Github Stats](https://github-readme-stats.vercel.app/api?username=bainchild&theme=shadow_green&card_width=300&line_height=20&show_icons=true&include_all_commits=true)](https://example.com/#gh-light-mode-only)
 [![bainchild's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bainchild&theme=vue-dark&card_width=300&hide_border=true&layout=compact&stats_format=bytes)](https://example.com/#gh-dark-mode-only)
