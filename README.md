@@ -17,10 +17,10 @@ I've also worked on a good number of esoteric projects, which are the primary so
 
 ---
 I am knowledgeable (in terms of syntax and common concepts/idioms) of the following languages[^1] (in order of preference):
- - Lua(u) (>=100%)
+ - Lua(u) (>=90%)
  - Rust (>70%)
- - Javascript/Typescript (>80%)
- - C (>70%)
+ - Javascript/Typescript (>50%)
+ - C (>50%)
  - Shell
  - PHP (>15%)
  - Java
