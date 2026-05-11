@@ -48,7 +48,7 @@ I have set up and/or self hosted these services (in order of recency):
  - [certbot](https://certbot.eff.org/), and oauth provided by:
  - [Authelia](https://authelia.com).
 
-Contact: [bainsletterbomb@gmail.com](mailto:bainsletterbomb@gmail.com).
+Contact: [bainsletterbomb@gmail.com](mailto:bainsletterbomb@gmail.com), [@bainchild:matrix.org](https://matrix.to/#/@bainchild:matrix.org).
 
 ---
 <img width="1183" height="683" alt="Screenshot_20260412_174937" src="https://github.com/user-attachments/assets/95eb3e28-5648-4e70-90b4-658f8e489504" />
