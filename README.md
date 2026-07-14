@@ -1,7 +1,7 @@
 Hello.
 ---
 
-I have had approximately 5.5 years experience (as of 2025), with half of it being offline or unshared modification of running code, a third being private projects, and the remaining share being public (or available to be made public, if asked).  
+I have had approximately 6 years experience (as of 2026), with half of it being offline or unshared modification of running code, a third being private projects, and the remaining share being public (or available to be made public, if asked).  
   
 I mainly work in backend programming, but I have spent time on:
  - all forms of scripting,
@@ -17,9 +17,10 @@ I've also worked on a good number of esoteric projects, which are the primary so
 
 ---
 I am knowledgeable (in terms of syntax and common concepts/idioms) of the following languages[^1] (in order of preference):
- - Lua(u) (>=90%)
+ - Lua (>=90%)
+ - Luau (>=70%)
  - Rust (>70%)
- - Javascript/Typescript (>50%)
+ - Javascript/Typescript (>40%)
  - C (>50%)
  - Shell
  - PHP (>15%)
@@ -42,8 +43,9 @@ I have set up and/or self hosted these services (in order of recency):
  - [Tailscale](https://tailscale.com)
  - All of: [Jellyfin](https://jellyfin.org),
  - [Gitea](https://gitea.com),
+ - [Garage](https://garagehq.deuxfleurs.fr),
  - [Dovecot](https://dovecot.org),
- - a roblox backend replacement (private), proxied through:
+ - a (currently private) roblox backend & RCCService replacement, proxied through:
  - [Nginx](https://nginx.org), with
  - [certbot](https://certbot.eff.org/), and oauth provided by:
  - [Authelia](https://authelia.com).
